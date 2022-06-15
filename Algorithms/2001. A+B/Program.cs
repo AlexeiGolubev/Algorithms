@@ -10,16 +10,16 @@ namespace _2001.A_B
     {
         public static int EnterNumber()
         {
-            int a = 0;
+            int number = 0;
 
             do
             {
                 Console.Write("Enter a number (1-1000): ");
-                int.TryParse(Console.ReadLine(), out a);
+                int.TryParse(Console.ReadLine(), out number);
             }
-            while (a < 1 || a > 1000);
+            while (number < 1 || number > 1000);
 
-            return a;
+            return number;
         }
 
         public static int SumOfNumbers(int a, int b) => a + b;

@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2006. BadenLengthMeasuremen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2007. RoundNumbersInBinarySystem", "2007. RoundNumbersInBinarySystem\2007. RoundNumbersInBinarySystem.csproj", "{350D5F7F-7597-49DE-A5D3-CE7E6E8990BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2008. TruckLoading", "2008. TruckLoading\2008. TruckLoading.csproj", "{C43F477F-059D-4FA5-A958-5EE6BB253E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2009. SumOnPowersOfTwos", "2009. SumOnPowersOfTwos\2009. SumOnPowersOfTwos.csproj", "{6AEC753D-7A99-4803-82A7-7751CD78AB9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{350D5F7F-7597-49DE-A5D3-CE7E6E8990BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{350D5F7F-7597-49DE-A5D3-CE7E6E8990BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{350D5F7F-7597-49DE-A5D3-CE7E6E8990BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43F477F-059D-4FA5-A958-5EE6BB253E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43F477F-059D-4FA5-A958-5EE6BB253E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43F477F-059D-4FA5-A958-5EE6BB253E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43F477F-059D-4FA5-A958-5EE6BB253E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEC753D-7A99-4803-82A7-7751CD78AB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEC753D-7A99-4803-82A7-7751CD78AB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEC753D-7A99-4803-82A7-7751CD78AB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEC753D-7A99-4803-82A7-7751CD78AB9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

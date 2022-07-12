@@ -76,15 +76,15 @@ namespace _2011.AgeAnalysis
             {
                 return "preschool child";
             }
-            if (age >= 7 && age < 18)
+            else if (age >= 7 && age < 18)
             {
                 return "schoolchild " + (age - 6);
             }
-            if (age >= 18 && age <= 22)
+            else if (age >= 18 && age <= 22)
             {
                 return "student " + (age - 17);
             }
-            if (age > 22 && age <= 150)
+            else if (age > 22 && age <= 150)
             {
                 return "specialist";
             }

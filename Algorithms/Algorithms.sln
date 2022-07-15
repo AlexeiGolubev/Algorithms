@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2011. AgeAnalysis", "2011. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2012. CuttingSquare", "2012. CuttingSquare\2012. CuttingSquare.csproj", "{D17788E2-8856-46C1-88D4-C14D0236BF85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2013. NumberOfLows", "2013. NumberOfLows\2013. NumberOfLows.csproj", "{8518AECF-E160-489F-B10C-F3CA3AB78663}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{D17788E2-8856-46C1-88D4-C14D0236BF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D17788E2-8856-46C1-88D4-C14D0236BF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D17788E2-8856-46C1-88D4-C14D0236BF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8518AECF-E160-489F-B10C-F3CA3AB78663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8518AECF-E160-489F-B10C-F3CA3AB78663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8518AECF-E160-489F-B10C-F3CA3AB78663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8518AECF-E160-489F-B10C-F3CA3AB78663}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

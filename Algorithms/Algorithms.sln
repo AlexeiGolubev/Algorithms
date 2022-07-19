@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2012. CuttingSquare", "2012
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2013. NumberOfLows", "2013. NumberOfLows\2013. NumberOfLows.csproj", "{8518AECF-E160-489F-B10C-F3CA3AB78663}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2015. PrimesOnTheInterval", "2015. PrimesOnTheInterval\2015. PrimesOnTheInterval.csproj", "{BFBC4DB2-C616-4969-9919-099CEA2FEA31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{8518AECF-E160-489F-B10C-F3CA3AB78663}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8518AECF-E160-489F-B10C-F3CA3AB78663}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8518AECF-E160-489F-B10C-F3CA3AB78663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBC4DB2-C616-4969-9919-099CEA2FEA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBC4DB2-C616-4969-9919-099CEA2FEA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBC4DB2-C616-4969-9919-099CEA2FEA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBC4DB2-C616-4969-9919-099CEA2FEA31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

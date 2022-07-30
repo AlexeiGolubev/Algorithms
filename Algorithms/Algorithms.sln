@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2013. NumberOfLows", "2013.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2015. PrimesOnTheInterval", "2015. PrimesOnTheInterval\2015. PrimesOnTheInterval.csproj", "{BFBC4DB2-C616-4969-9919-099CEA2FEA31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2016. NumberOfEquationRoots", "2016. NumberOfEquationRoots\2016. NumberOfEquationRoots.csproj", "{7CACB0E7-0F98-40B3-861E-BFD333B61FFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{BFBC4DB2-C616-4969-9919-099CEA2FEA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFBC4DB2-C616-4969-9919-099CEA2FEA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFBC4DB2-C616-4969-9919-099CEA2FEA31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CACB0E7-0F98-40B3-861E-BFD333B61FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CACB0E7-0F98-40B3-861E-BFD333B61FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CACB0E7-0F98-40B3-861E-BFD333B61FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CACB0E7-0F98-40B3-861E-BFD333B61FFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
